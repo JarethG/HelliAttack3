@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="336631e8-f6b7-4dd5-9841-f8cff4b12240" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/res/Levels/1.1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/1.2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/1.3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/1.4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/2.1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/2.2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/2.3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/2.4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/3.1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/3.2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/3.3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/3.4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/4.1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/4.2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/4.3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/4.4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/default.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/new_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/new_level2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Levels/training_zone.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpz/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpz/ImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpz/ImgFix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpz/LoadSave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpz/TOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpz/Utilz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inputs/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inputs/KeyboardListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inputs/MouseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GameScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GameStates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Render.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/managers/EnemyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/managers/LevelManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/managers/ProjectileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/managers/WeaponManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/AmmoBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/AnimatedObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/enemies/AttackCopter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/enemies/Bomber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/enemies/Drone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/enemies/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/enemies/GunnedRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/enemies/Helicopter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/enemies/HelicopterBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/enemies/Hologram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/enemies/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/enemies/SniperRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/enemies/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/projectiles/DirectionalProjectile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/projectiles/Explosion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/projectiles/GravityAffectedProjectile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/projectiles/PiercingProjectile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/projectiles/Projectile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/Editing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/GameScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/LevelSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/Playing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/SceneMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/Bar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/NavigationButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/Toolbar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MfIZsbc5euXRGAcsi66bREOUDk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="336631e8-f6b7-4dd5-9841-f8cff4b12240" name="Changes" comment="" />
+      <created>1678152269555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678152269555</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
